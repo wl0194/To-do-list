@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/wl0194/To-do-list#readme",
   "devDependencies": {
+    "@types/uuid": "^8.3.4",
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
   }
 }
