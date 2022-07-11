@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wl0194/To-do-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wl0194/To-do-list/issues"
+  },
+  "homepage": "https://github.com/wl0194/To-do-list#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
